@@ -23,5 +23,5 @@ https://bruunogoncalves.github.io/Dindin-Gama-Academy/inicio.html
 
 - [@BruunoGoncalves](https://github.com/BruunoGoncalves)
 - [@PauliranSL](https://github.com/PauliranSL)
--
+- [@Franklin-Front-end](https://github.com/Franklin-Front-end)
 -
