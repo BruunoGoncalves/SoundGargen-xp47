@@ -16,7 +16,7 @@ Projeto realizado no segundo desafio do Gama XP#47 da stack Hacker.
 
 ## Demonstração
 
-https://bruunogoncalves.github.io/Dindin-Gama-Academy/inicio.html
+https://bruunogoncalves.github.io/SoundGargen-xp47/
 
 
 ## Autores
