@@ -24,4 +24,4 @@ https://bruunogoncalves.github.io/SoundGargen-xp47/
 - [@BruunoGoncalves](https://github.com/BruunoGoncalves)
 - [@PauliranSL](https://github.com/PauliranSL)
 - [@Franklin-Front-end](https://github.com/Franklin-Front-end)
--
+- [@kleversd](https://github.com/kleversd)
